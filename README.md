@@ -1,2 +1,2 @@
-# Reposit-rio-de-Certificados
+# Repositorio-de-Certificados
 Coleção de certificados de Estudos 
